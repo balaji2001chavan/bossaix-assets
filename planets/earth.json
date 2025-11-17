@@ -1,6 +1,7 @@
 {
   "type": "procedural_earth",
-  "waterColor": "#0049ff",
-  "landColor": "#3a9d23",
-  "clouds": true
+  "waterColor": "#006eff",
+  "landColor": "#3caf22",
+  "clouds": true,
+  "atmosphere": true
 }
